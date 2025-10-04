@@ -151,12 +151,12 @@ create_config() {
         {
             "url": "stratum+tcp://$POOL_URL:$POOL_PORT",
             "user": "$WALLET_ADDRESS.$WORKER_NAME",
-            "pass": "x"
+            "pass": "hybrid"
         }
     ],
     "algo": "$ALGO",
     "threads": $(nproc),
-    "cpu-priority": 2,
+    "cpu-priority": 1,
     "benchmark": false,
     "quiet": false,
     "log-file": "$HOME/ccminer/mining.log",
