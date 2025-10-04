@@ -8,7 +8,7 @@ apt update && apt upgrade -y
 ```
 
 ```
-apt install wget bc jq libjasson -y
+apt install wget bc jq libjansson -y
 ```
 
 One Installeted Complated :
