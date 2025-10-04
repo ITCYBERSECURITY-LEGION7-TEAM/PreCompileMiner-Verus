@@ -1,7 +1,8 @@
 # PreCompileMiner-Verus
 Welcome To My Tools Mining Verus With CCMiner PreCompile Simple Update
 
-Dependencies:
+Dependencies Installations :
+Copying Termux
 ```
 apt update && apt upgrade -y
 ```
@@ -22,3 +23,12 @@ Run Terminal :
 ```
 ./LauncherMiner
 ```
+
+Donations Buy My Coffee :
+```
+08981800803
+Dana
+```
+
+Contact Developer :
+https://wa.me/6285813397669 
