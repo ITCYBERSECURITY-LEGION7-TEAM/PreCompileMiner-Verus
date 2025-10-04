@@ -26,8 +26,8 @@ Run Terminal :
 
 Donations Buy My Coffee :
 ```
-08981800803
-Dana
+Verus Wallet : 
+RHhDAHjE4UPVAC5TJdEFPkBZXpnuaLvJZ2
 ```
 
 Contact Developer :
